@@ -2,7 +2,7 @@
   "minecraft": "1.21.1",
   "loader": "neoforge",
   "neoforge": "21.1.267",
-  "revision": 12,
+  "revision": 13,
   "files": [
     {
       "path": "mods/[neoforge]ctov-1.21.1-3.6.4.jar",
@@ -797,6 +797,18 @@
       "size": 24207
     },
     {
+      "path": "resourcepacks/Ultimate-Winter-Snow-Covered-Grass.zip",
+      "sha256": "7cffdceff5cfa5a6082481d5a69f08ad645b5bc3d9ff5ba7ad17213388f05b17",
+      "url": "https://raw.githubusercontent.com/SmarshMello/Dillon-Ultimate-Winter-Releases/bdfaf537d1598b6e3621e5ecff91ca88f4f328a1/assets/revision-13/Ultimate-Winter-Snow-Covered-Grass.zip",
+      "size": 12199
+    },
+    {
+      "path": "resourcepacks/Villagers Speak.zip",
+      "sha256": "03aa914063ad160afa336895b321d3e17e16cfcd9747a4bd03f376262ce9921c",
+      "url": "https://cdn.modrinth.com/data/PxWxcxBC/versions/o9A9R3a6/Villagers%20Speak.zip",
+      "size": 722988
+    },
+    {
       "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
       "sha256": "f41db92acc585fe9ffe0cc124d6ecaea27cef9ded91129ebc2a8e60226947b2c",
       "url": "https://cdn.modrinth.com/data/ZvMtQlho/versions/kC2Y8q1P/Bliss_v2.1.2_%28Chocapic13_Shaders_edit%29.zip",
@@ -842,7 +854,9 @@
     "file/Animated Blocks.zip",
     "file/McAlive_Leaves.zip",
     "file/3D Items-Vanillaism-1.21.1.zip",
-    "file/Fantasy-3D-Tools-v1.3.zip"
+    "file/Fantasy-3D-Tools-v1.3.zip",
+    "file/Ultimate-Winter-Snow-Covered-Grass.zip",
+    "file/Villagers Speak.zip"
   ],
   "optionalResourcePacks": []
 }
