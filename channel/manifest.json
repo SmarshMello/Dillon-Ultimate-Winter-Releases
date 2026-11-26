@@ -2,7 +2,7 @@
   "minecraft": "1.21.1",
   "loader": "neoforge",
   "neoforge": "21.1.267",
-  "revision": 11,
+  "revision": 12,
   "files": [
     {
       "path": "mods/[neoforge]ctov-1.21.1-3.6.4.jar",
@@ -828,9 +828,9 @@
     }
   ],
   "launcher": {
-    "revision": 11,
-    "url": "https://github.com/SmarshMello/Dillon-Ultimate-Winter-Releases/releases/download/v0.0.11/DillonWinterClient-11.exe",
-    "sha256": "a0a5ead42483b4d4fe8713be1a583e94b846f827c00e643de9badea90423e27a"
+    "revision": 12,
+    "url": "https://github.com/SmarshMello/Dillon-Ultimate-Winter-Releases/releases/download/v0.0.12/DillonWinterClient-12.exe",
+    "sha256": "e8e1742d531c96cd816f374052bced2c15764beb9dced5b7d1ce9cc2bc81d355"
   },
   "server": "schmidt-nan.tun.ply.gg",
   "resourcePackOrder": [
